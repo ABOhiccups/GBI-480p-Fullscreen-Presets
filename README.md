@@ -3,22 +3,22 @@ This is for mCable / mClassic by Marseille with Game Boy Interface by Extrems fo
 
 All you need is the following items.
 - Nintendo GameCube with Game Boy Player
-- Homebrew method to access Swiss (Action Replay with SD Gecko, XenoGC with SD Gecko or SD2SP2, or GC Loader)
-- Game Boy Interface
+- Homebrew method to access [Swiss](https://www.gc-forever.com/wiki/index.php?title=Swiss) (Action Replay with SD Gecko, XenoGC with SD Gecko or SD2SP2, or GC Loader)
+- [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
 - mCable or mClassic by Marseille
 
 ## Shopping
 ### mCable Gaming Edition
-Official Website - http://w.zube.me/21236dc
-Amazon - https://www.amazon.com/dp/B075M8ZWMY
+[Official Website](http://w.zube.me/21236dc)
+[Amazon](https://www.amazon.com/dp/B075M8ZWMY)
 
 ### mCable Cinema Edition
-Official Website - http://w.zube.me/21236dc
-Amazon - https://www.amazon.com/dp/B01LZ3AZ1W
+[Official Website](http://w.zube.me/21236dc)
+[Amazon](https://www.amazon.com/dp/B01LZ3AZ1W)
 
 ### mClassic
-Official Website - http://w.zube.me/21236dc
-Amazon - https://www.amazon.com/dp/B07X6KDQ98
+[Official Website](http://w.zube.me/21236dc)
+[Amazon](https://www.amazon.com/dp/B07X6KDQ98)
 
 ## Types of Presets Files
 ### gbi
