@@ -16,11 +16,14 @@ Game Boy Interface Standard Edition
 ### gbisr
 Game Boy Interface Speedrunning Edition
 
-### mcable
+### 480p
 Enable Game Boy Player enhancements for Rumble and restored/reduced contrast/gamma
 
-### mcable-video
+### 480p-video
 Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Protection
+
+### 480p-gbc
+480p Fullscreen Preset for Game Boy and Game Boy Color
 
 ## FAQ
 **Q:** Can you play Game Boy and Game Boy Advance Games with mcable-video Presets File?
