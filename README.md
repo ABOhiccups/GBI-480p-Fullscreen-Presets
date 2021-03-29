@@ -31,3 +31,10 @@ Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Prote
 
 ### mClassic
 [Official Website](http://w.zube.me/21236dc), [Amazon.com](https://www.amazon.com/dp/B07X6KDQ98)
+
+## FAQ
+**Q:** Well these Presets Files work without mCable / mClassic?
+**A:** Yes. It will work as 480p only Pixel Perfect. Just make sure you set your TV to Widescreen Mode.
+
+**Q:** Can you play Game Boy and Game Boy Advance Games with mcable-video Presets File?
+**A:** Yes. Keep that in mind. Game Boy Player enhancements (such as Rumble) was disabled in order for Game Boy Advance Video to work.
