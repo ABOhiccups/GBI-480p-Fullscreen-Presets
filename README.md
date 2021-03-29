@@ -7,6 +7,8 @@ This is for mCable / mClassic by Marseille with Game Boy Interface by Extrems fo
 - [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
 - mCable or mClassic by Marseille
 
+For mClassic. Make sure the switch is set to Processing mode (Green LED)
+
 ## Types of Presets Files
 ### gbi
 Game Boy Interface Standard Edition
