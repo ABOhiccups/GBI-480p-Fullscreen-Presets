@@ -9,16 +9,16 @@ All you need is the following items.
 
 ## Shopping
 ### mCable Gaming Edition
-Official Website = http://w.zube.me/21236dc
-Amazon = https://www.amazon.com/dp/B075M8ZWMY
+Official Website - http://w.zube.me/21236dc
+Amazon - https://www.amazon.com/dp/B075M8ZWMY
 
 ### mCable Cinema Edition
-Official Website = http://w.zube.me/21236dc
-Amazon = https://www.amazon.com/dp/B01LZ3AZ1W
+Official Website - http://w.zube.me/21236dc
+Amazon - https://www.amazon.com/dp/B01LZ3AZ1W
 
 ### mClassic
-Official Website = http://w.zube.me/21236dc
-Amazon = https://www.amazon.com/dp/B07X6KDQ98
+Official Website - http://w.zube.me/21236dc
+Amazon - https://www.amazon.com/dp/B07X6KDQ98
 
 ## Types of Presets Files
 ### gbi
