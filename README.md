@@ -7,16 +7,6 @@ All you need is the following items.
 - [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
 - mCable or mClassic by Marseille
 
-## Shopping
-### mCable Gaming Edition
-[Official Website](http://w.zube.me/21236dc), [Amazon.com](https://www.amazon.com/dp/B075M8ZWMY)
-
-### mCable Cinema Edition
-[Official Website](http://w.zube.me/21236dc), [Amazon.com](https://www.amazon.com/dp/B01LZ3AZ1W)
-
-### mClassic
-[Official Website](http://w.zube.me/21236dc), [Amazon.com](https://www.amazon.com/dp/B07X6KDQ98)
-
 ## Types of Presets Files
 ### gbi
 Game Boy Interface Standard Edition
@@ -29,3 +19,13 @@ Enable Game Boy Player enhancements for Rumble and restored/reduced contrast/gam
 
 ### mcable-video
 Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Protection
+
+## Shopping
+### mCable Gaming Edition
+[Official Website](http://w.zube.me/21236dc), [Amazon.com](https://www.amazon.com/dp/B075M8ZWMY)
+
+### mCable Cinema Edition
+[Official Website](http://w.zube.me/21236dc), [Amazon.com](https://www.amazon.com/dp/B01LZ3AZ1W)
+
+### mClassic
+[Official Website](http://w.zube.me/21236dc), [Amazon.com](https://www.amazon.com/dp/B07X6KDQ98)
