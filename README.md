@@ -1,7 +1,7 @@
 # mCable / mClassic Presets for Game Boy Interface
 This is for mCable / mClassic by Marseille with Game Boy Interface by Extrems for Game Boy Player on Nintendo GameCube.
 
-All you need is the following items.
+## Requirements
 - Nintendo GameCube with Game Boy Player
 - Homebrew method to access [Swiss](https://www.gc-forever.com/wiki/index.php?title=Swiss) (Action Replay with SD Gecko, XenoGC with SD Gecko or SD2SP2, or GC Loader)
 - [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
