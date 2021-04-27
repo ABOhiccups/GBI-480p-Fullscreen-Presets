@@ -3,7 +3,7 @@ These presets for Game Boy Interface will zoom in Game Boy Advance Screen to 3X 
 
 This is also designed for mCable and mClassic by Marseille to get the best video quality as possible.
 
-Compatible with Game Boy Advance, Game Boy Advance Video, and Game Boy Color.
+Compatible with Game Boy Advance, Game Boy Advance Video, Game Boy, and Game Boy Color.
 
 Available for Standard Edtion and Speedrunning Edition.
 
@@ -16,7 +16,7 @@ Available for Standard Edtion and Speedrunning Edition.
 
 For mClassic. Make sure the switch is set to...
 - Processing mode (Green LED) for Game Boy Advance and Game Boy Advance Video.
-- Retro mode (Blue LED) for Game Boy Color.
+- Retro mode (Blue LED) for Game Boy and Game Boy Color.
 
 ## Types of Presets Files
 ### gbi
