@@ -15,7 +15,7 @@ Available for Standard Edtion and Speedrunning Edition.
 - [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display)
 
 For mClassic. Make sure the switch is set to...
-- Processing mode (Green LED) for Game Boy Advance.
+- Processing mode (Green LED) for Game Boy Advance and Game Boy Advance Video.
 - Retro mode (Blue LED) for Game Boy Color.
 
 ## Types of Presets Files
