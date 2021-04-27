@@ -1,5 +1,5 @@
 # 480p Fullscreen Presets for Game Boy Interface
-These presets files for Game Boy Interface will zoom in Game Boy Advance Screen to 3X in Native 480p Progressive Mode.
+These presets for Game Boy Interface will zoom in Game Boy Advance Screen to 3X in Native 480p Progressive Mode.
 
 Compatible with Game Boy Advance, Game Boy Advance Video, and Game Boy Color.
 
