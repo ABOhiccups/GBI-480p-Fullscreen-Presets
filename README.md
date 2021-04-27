@@ -14,7 +14,9 @@ Available for Standard Edtion and Speedrunning Edition.
 - 16:9 Widescreen TV/Monitor
 - [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display)
 
-For mClassic. Make sure the switch is set to Processing mode (Green LED) for Game Boy Advance, or Retro mode (Blue LED) for Game Boy Color.
+For mClassic. Make sure the switch is set to...
+- Processing mode (Green LED) for Game Boy Advance.
+- Retro mode (Blue LED) for Game Boy Color.
 
 ## Types of Presets Files
 ### gbi
