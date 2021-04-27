@@ -154,6 +154,15 @@ Y = L
 
 X = R
 
+### Button Combo
+GameCube Controller = Action
+
+B, X, and Start/Pause = Power Switch
+
+X, Y, and Start/Pause (Hold for 1.5 seconds) = Recalibrate controller
+
+X, Y, and Start/Pause (Hold for 3 seconds) = Swap controls (Only with controller adapter)
+
 ## FAQ
 **Q:** Can you play Game Boy and Game Boy Advance Games with xxx-480p-video Presets File?
 
