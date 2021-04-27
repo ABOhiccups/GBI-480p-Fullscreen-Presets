@@ -30,12 +30,19 @@ Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Prote
 ### Type A (Two-Handed)
 GameCube Control = GBA Action
 A = A
+
 B = B
+
 Y or Z = Select
+
 X or Start/Pause = Start
+
 D-Pad or Analog Stick = D-Pad
+
 L = L
+
 R = R
+
 C-Stick Down = Toggle Input Viewer
 
 ### Type B (One-Handed)
