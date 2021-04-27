@@ -154,7 +154,7 @@ Y = L
 
 X = R
 
-### Button Combo
+### Buttons Combo
 GameCube Controller = Action
 
 B, X, and Start/Pause = Power Switch
