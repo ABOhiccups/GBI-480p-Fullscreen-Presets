@@ -1,5 +1,9 @@
 # 480p Fullscreen Presets for Game Boy Interface
-These presets files for Game Boy Interface will zoom in Game Boy Advance Screen to 3X in Native 480p Progressive Mode. Available for Standard Edtion and Speedrunning Edition. This is also designed for mCable and mClassic by Marseille to get the best video quality as possible.
+These presets files for Game Boy Interface will zoom in Game Boy Advance Screen to 3X in Native 480p Progressive Mode.
+
+Available for Standard Edtion and Speedrunning Edition.
+
+This is also designed for mCable and mClassic by Marseille to get the best video quality as possible.
 
 ## Requirements
 - Nintendo GameCube with Game Boy Player
