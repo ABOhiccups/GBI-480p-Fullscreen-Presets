@@ -29,6 +29,7 @@ Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Prote
 ## [Control Types](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Controls) (Speedrunning Edition only)
 ### Type A (Two-Handed)
 GameCube Control = GBA Action
+
 A = A
 
 B = B
@@ -47,65 +48,110 @@ C-Stick Down = Toggle Input Viewer
 
 ### Type B (One-Handed)
 GameCube Control = GBA Action
+
 A = A
+
 B = B
+
 L or Z = Select
+
 R or Start/Pause = Start
+
 D-Pad, Analog Stick, or C-Stick = D-Pad
+
 Y = L
+
 X = R
 
 ### Type C (Super Mario World: Super Mario Advance 2)
 GameCube Control = GBA Action
+
 B = A
+
 Y or X = B
+
 Z = Select
+
 Start/Pause = Start
+
 D-Pad or Analog Stick = D-Pad
+
 L = L
+
 R or A = R
+
 C-Stick Down = Toggle Input Viewer
 
 ### Type D (The Legend of Zelda: A Link to the Past)
 GameCube Control = GBA Action
+
 Y = A
+
 B = B
+
 R or Start/Pause = Select
+
 L or Z = Start
+
 D-Pad, Analog Stick, or C-Stick = D-Pad
+
 X = L
+
 A = R
 
 ### Type E1 (swapped)
 GameCube Control = GBA Action
+
 X or B = A
+
 Y or A = B
+
 Z = Select
+
 Start/Pause = Start
+
 D-Pad or Analog Stick = D-Pad
+
 L = L
+
 R = R
+
 C-Stick Down = Toggle Input Viewer
 
 ### Type E2 (swapped Super Mario World: Super Mario Advance 2)
 GameCube Control = GBA Action
+
 A = A
+
 B or Y = B
+
 Z = Select
+
 Start/Pause = Start
+
 D-Pad or Analog Stick = D-Pad
+
 L = L
+
 R or X = R
+
 C-Stick Down = Toggle Input Viewer
 
 ### Type E3 (swapped The Legend of Zelda: A Link to the Past)
 GameCube Control = GBA Action
+
 B = A
+
 A = B
+
 R or Start/Pause = Select
+
 L or Z = Start
+
 D-Pad, Analog Stick, or C-Stick = D-Pad
+
 Y = L
+
 X = R
 
 ## FAQ
