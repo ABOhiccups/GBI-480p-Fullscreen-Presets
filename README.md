@@ -36,7 +36,7 @@ Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Prote
 
 ## [Control Types](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Controls) (Speedrunning Edition only)
 ### Type A (Two-Handed)
-Recommend Controller: GameCube Controller and Hori Game Boy Player Controller
+**Recommend Controller:** GameCube Controller and Hori Game Boy Player Controller
 
 GameCube Controller = Action
 
@@ -57,7 +57,7 @@ R = R
 C-Stick Down = Toggle Input Viewer
 
 ### Type B (One-Handed)
-Recommend Controller: GameCube Controller
+**Recommend Controller:** GameCube Controller
 
 GameCube Controller = Action
 
@@ -76,7 +76,7 @@ Y = L
 X = R
 
 ### Type C (Super Mario World: Super Mario Advance 2)
-Recommend Controller: SNES Controller to GameCube Adapter
+**Recommend Controller:** SNES Controller to GameCube Adapter
 
 GameCube Controller = Action
 
@@ -97,7 +97,7 @@ R or A = R
 C-Stick Down = Toggle Input Viewer
 
 ### Type D (The Legend of Zelda: A Link to the Past)
-Recommend Controller: SNES Controller to GameCube Adapter
+**Recommend Controller:** SNES Controller to GameCube Adapter
 
 GameCube Controller = Action
 
@@ -116,7 +116,7 @@ X = L
 A = R
 
 ### Type E1 (Swapped)
-Recommend Controller: SNES Controller to GameCube Adapter
+**Recommend Controller:** SNES Controller to GameCube Adapter
 
 GameCube Controller = Action
 
@@ -137,7 +137,7 @@ R = R
 C-Stick Down = Toggle Input Viewer
 
 ### Type E2 (Swapped Super Mario World: Super Mario Advance 2)
-Recommend Controller: GameCube Controller and Hori Game Boy Player Controller
+**Recommend Controller:** GameCube Controller and Hori Game Boy Player Controller
 
 GameCube Controller = Action
 
@@ -158,7 +158,7 @@ R or X = R
 C-Stick Down = Toggle Input Viewer
 
 ### Type E3 (Swapped The Legend of Zelda: A Link to the Past)
-Recommend Controller: GameCube Controller and Hori Game Boy Player Controller
+**Recommend Controller:** GameCube Controller and Hori Game Boy Player Controller
 
 GameCube Controller = Action
 
