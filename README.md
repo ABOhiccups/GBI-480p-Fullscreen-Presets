@@ -19,6 +19,12 @@ For mClassic. Make sure the switch is set to...
 - Retro mode (Blue LED) for Game Boy and Game Boy Color.
 
 ## Types of Presets Files
+### GBA 4-3 Folder
+This preset is for Game Boy Advance on 4:3 Screen
+
+### GBA 16-9 Folder
+This preset is for Game Boy Advance on 16:9 Screen
+
 ### gbi
 Game Boy Interface Standard Edition
 
@@ -31,8 +37,11 @@ Enable Game Boy Player enhancements for Rumble and restored/reduced contrast/gam
 ### 480p-video
 Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Protection
 
-### 480p-gbc
-480p Fullscreen Preset for Game Boy and Game Boy Color
+### 480p-gbc-3x
+This preset is for Game Boy and Game Boy Color with Perfect 3X Pixel
+
+### 480p-gbc-fit
+This preset is for Game Boy and Game Boy Color zoom in to fit the whole screen
 
 ## [Control Types](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Controls) (Speedrunning Edition only)
 ### Type A (Two-Handed)
