@@ -38,7 +38,7 @@ Enable Game Boy Player enhancements for Rumble and restored/reduced contrast/gam
 Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Protection
 
 ### 480p-gbc-3x
-This preset is for Game Boy and Game Boy Color with Perfect 3X Pixel
+This preset is for Game Boy and Game Boy Color zoom in to 3X
 
 ### 480p-gbc-fit
 This preset is for Game Boy and Game Boy Color zoom in to fit the whole screen
