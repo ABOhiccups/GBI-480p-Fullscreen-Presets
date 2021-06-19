@@ -9,9 +9,10 @@ Available for Standard Edtion and Speedrunning Edition.
 
 ## Requirements
 - Nintendo GameCube with Game Boy Player
+- [GCVideo HDMI Plug & Play Devices](https://castlemaniagames.com/collections/nintendo?_=pf&pf_t_console=Gamecube&pf_pt_accessory_type=HD%20Adapter), or [GCVideo HDMI Mod](https://castlemaniagames.com/collections/nintendo/products/gamecube-gc-dual-5-3-480p-internal-upgrade-kit), or Official GameCube Component Cable
 - [Action Replay with SD Gecko](https://www.codejunkies.com/Products/SD-Media-Launcher__EF000580V.aspx) or Homebrew method to access [Swiss](https://www.gc-forever.com/wiki/index.php?title=Swiss) ([GC Loader](https://www.black-dog.tech/gc-loader-pnp.html), or [XenoGC](https://www.amazon.com/s?k=XenoGC&geniuslink=true&tag=mistmari-20&ref=nb_sb_noss_2) with [SD Gecko](https://www.amazon.com/dp/B07BHCZJX8) or [SD2SP2](https://castlemaniagames.com/collections/nintendo/products/gamecube-sd2sp2-assembled))
 - [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
-- 16:9 Widescreen TV/Monitor
+- 16:9 Widescreen 480p or higher TV/Monitor
 - [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display)
 
 For mClassic. Make sure the switch is set to...
