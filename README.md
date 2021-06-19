@@ -1,4 +1,4 @@
-# Speedrunning Fullscreen for Game Boy Interface
+# Speedrunning Fullscreen for Game Boy Interface: Speedrunning Edition
 These presets for Game Boy Interface: Speedrunning Edition will zoom in Game Boy Advance Screen to 3X Scale.
 
 This is also designed for mCable and mClassic by Marseille and other Video Upscaler Devices to get the best video quality as possible.
