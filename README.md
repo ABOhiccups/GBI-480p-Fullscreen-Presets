@@ -1,5 +1,5 @@
 # Speedrunning Fullscreen for Game Boy Interface
-Speedrunning Fullscreen is a collection of preset files for Game Boy Interface: Speedrunning Edition allows you to run Game Boy Advance zoomed in to 3X Scale.
+Speedrunning Fullscreen is a collection of preset files for Game Boy Interface: Speedrunning Edition allows you to run Game Boy Advance games zoomed in to 3X Scale.
 
 This is also designed for mCable and mClassic by Marseille and other Video Upscaler Devices to get the best video quality as possible.
 
