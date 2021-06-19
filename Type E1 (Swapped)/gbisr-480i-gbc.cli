@@ -1,0 +1,5 @@
+--zoom=3
+--vfilter=.5:.25:.25
+--scan-mode=interlace
+--control=4
+--
