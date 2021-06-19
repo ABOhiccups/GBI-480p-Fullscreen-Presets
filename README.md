@@ -45,7 +45,7 @@ Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Prote
 ### gbisr-xxxx-gbc
 This file is for Game Boy and Game Boy Color
 
-## [Control Types](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Controls) (Speedrunning Edition only)
+## [Control Types](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Controls)
 ### Type A (Two-Handed)
 **Recommend Controller:** GameCube Controller and Hori Game Boy Player Controller
 
