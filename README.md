@@ -1,7 +1,7 @@
 # Speedrunning Fullscreen for Game Boy Interface
 These presets for Game Boy Interface: Speedrunning Edition will zoom in Game Boy Advance Screen to 3X Scale.
 
-This is also designed for mCable and mClassic by Marseille and other Upscaler Devices to get the best video quality as possible.
+This is also designed for mCable and mClassic by Marseille and other Video Upscaler Devices to get the best video quality as possible.
 
 Compatible with Game Boy Advance, Game Boy Advance Video, Game Boy, and Game Boy Color.
 
@@ -13,36 +13,37 @@ Available for 240p (GBC Only), 480i, and 480p.
 - [Action Replay with SD Gecko](https://www.codejunkies.com/Products/SD-Media-Launcher__EF000580V.aspx) or Homebrew method to access [Swiss](https://www.gc-forever.com/wiki/index.php?title=Swiss) ([GC Loader](https://www.black-dog.tech/gc-loader-pnp.html), or [XenoGC](https://www.amazon.com/s?k=XenoGC&geniuslink=true&tag=mistmari-20&ref=nb_sb_noss_2) with [SD Gecko](https://www.amazon.com/dp/B07BHCZJX8) or [SD2SP2](https://castlemaniagames.com/collections/nintendo/products/gamecube-sd2sp2-assembled))
 - [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
 - 16:9 Widescreen 480p or higher TV/Monitor, or 480i or higher CRT TV, or PVM/BVM Monitor
-- [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display), or [any Upscaler Devices](https://www.retrorgb.com/upscalers.html)
+- [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display), or [any Video Upscaler Devices](https://www.retrorgb.com/upscalers.html)
 
 For mClassic. Make sure the switch is set to...
 - Processing mode (Green LED) for Game Boy Advance and Game Boy Advance Video.
 - Retro mode (Blue LED) for Game Boy and Game Boy Color.
 
-## Types of Presets Files
-### GBA 4-3 Folder
-This preset is for Game Boy Advance on 4:3 Screen
+## Types of Speedrunning Fullscreen Files
 
-### GBA 16-9 Folder
-This preset is for Game Boy Advance on 16:9 Screen
+### 240p (GBC only)
+Recommend for CRT TV and PVM/BVM Monitor
 
-### gbi
-Game Boy Interface Standard Edition
-
-### gbisr
-Game Boy Interface Speedrunning Edition
+### 480i
+Recommend for CRT TV, PVM/BVM Monitor, and Video Upscaler Devices
 
 ### 480p
+Recommend for 480p or higher TV/Monitor, mCable/mClassic, and Video Upscaler Device
+
+### GBA 4-3 Folder
+Contains files for Game Boy Advance in 4:3 Aspect Ratio
+
+### GBA 16-9 Folder
+Contains files for Game Boy Advance in 16:9 Aspect Ratio
+
+### gbisr-xxxx
 Enable Game Boy Player enhancements for Rumble and restored/reduced contrast/gamma
 
-### 480p-video
+### gbisr-xxxx-video
 Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Protection
 
-### 480p-gbc-3x
-This preset is for Game Boy and Game Boy Color zoom in to 3X
-
-### 480p-gbc-fit
-This preset is for Game Boy and Game Boy Color zoom in to fit the whole screen
+### gbisr-xxxx-gbc
+This file is for Game Boy and Game Boy Color
 
 ## [Control Types](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Controls) (Speedrunning Edition only)
 ### Type A (Two-Handed)
@@ -194,12 +195,3 @@ B, X, and Start/Pause = Power Switch
 X, Y, and Start/Pause (Hold for 1.5 seconds) = Recalibrate controller
 
 X, Y, and Start/Pause (Hold for 3 seconds) = Swap controls (Only with controller adapter)
-
-## FAQ
-**Q:** Can you play Game Boy and Game Boy Advance Games with xxx-480p-video Presets File?
-
-**A:** Yes. Keep that in mind. Game Boy Player enhancements (such as Rumble) was disabled in order for Game Boy Advance Video to work.
-
-**Q:** Does mCable support 1440p?
-
-**A:** No, only mClassic supports 1440p.
