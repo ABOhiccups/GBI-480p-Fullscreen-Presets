@@ -31,10 +31,10 @@ Recommend for CRT TV, PVM/BVM Monitor, and Video Upscaler Devices
 Recommend for 480p or higher TV/Monitor, mCable/mClassic, and Video Upscaler Device
 
 ### GBA 4-3 Folder
-Contains files for Game Boy Advance in 4:3 Aspect Ratio
+Contains preset files for Game Boy Advance in 4:3 Aspect Ratio
 
 ### GBA 16-9 Folder
-Contains files for Game Boy Advance in 16:9 Aspect Ratio
+Contains preset files for Game Boy Advance in 16:9 Aspect Ratio
 
 ### gbisr-xxxx
 Enable Game Boy Player enhancements for Rumble and restored/reduced contrast/gamma
@@ -43,7 +43,7 @@ Enable Game Boy Player enhancements for Rumble and restored/reduced contrast/gam
 Disable Game Boy Player enhancements to bypass Game Boy Advance Video Copy Protection
 
 ### gbisr-xxxx-gbc
-This file is for Game Boy and Game Boy Color
+This preset is for Game Boy and Game Boy Color
 
 ## [Control Types](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Controls)
 ### Type A (Two-Handed)
