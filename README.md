@@ -199,7 +199,7 @@ X, Y, and Start/Pause (Hold for 3 seconds) = Swap controls (Only with controller
 **Q:** Can you play Game Boy and Game Boy Advance Games with xxx-480p-video Presets File?
 
 **A:** Yes. Keep that in mind. Game Boy Player enhancements (such as Rumble) was disabled in order for Game Boy Advance Video to work.
-----------
+
 **Q:** Does mCable support 1440p?
 
 **A:** No, only mClassic supports 1440p.
