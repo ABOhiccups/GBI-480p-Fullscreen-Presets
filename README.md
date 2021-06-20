@@ -19,7 +19,7 @@ For mClassic. Make sure the switch is set to...
 - Processing mode (Green LED) for Game Boy Advance and Game Boy Advance Video.
 - Retro mode (Blue LED) for Game Boy and Game Boy Color.
 
-## Types of Speedrunning Fullscreen Files
+## [Types of Speedrunning Fullscreen Files](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Video_scaling)
 
 ### 240p (GBC only)
 Recommend for CRT TV and PVM/BVM Monitor
