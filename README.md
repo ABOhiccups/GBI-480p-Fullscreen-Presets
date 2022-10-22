@@ -13,7 +13,7 @@ Available for 240p (GBC Only), 480i, and 480p.
 - [Action Replay with SD Gecko](https://www.codejunkies.com/Products/SD-Media-Launcher__EF000580V.aspx) or Homebrew method to access [Swiss](https://www.gc-forever.com/wiki/index.php?title=Swiss) ([GC Loader](https://www.black-dog.tech/gc-loader-pnp.html)) ([XenoGC](https://www.amazon.com/s?k=XenoGC&geniuslink=true&tag=mistmari-20&ref=nb_sb_noss_2) or [PicoBoot](https://github.com/webhdx/PicoBoot) with [SD Gecko](https://www.amazon.com/dp/B07BHCZJX8) or [SD2SP2](https://castlemaniagames.com/collections/nintendo/products/gamecube-sd2sp2-assembled))
 - [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
 - 16:9 Widescreen 480p or higher TV/Monitor, or 480i or higher CRT TV, or PVM/BVM Monitor
-- [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display), or [any Video Upscaler Devices](https://www.retrorgb.com/upscalers.html)
+- [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display), or [any Video Upscaler Devices](https://www.retrorgb.com/upscalers.html))
 
 For mClassic. Make sure the switch is set to...
 - Processing mode (Green LED) for Game Boy Advance and Game Boy Advance Video.
