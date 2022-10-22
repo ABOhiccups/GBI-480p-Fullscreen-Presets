@@ -16,8 +16,8 @@ Available for 240p (GBC Only), 480i, and 480p.
 - [mCable or mClassic by Marseille](http://w.zube.me/21236dc) (Recommended for 1080p/1440p Display), or [any Video Upscaler Devices](https://www.retrorgb.com/upscalers.html)
 
 For mClassic. Make sure the switch is set to...
-- Processing mode (Green LED) for Game Boy Advance and Game Boy Advance Video.
-- Retro mode (Blue LED) for Game Boy and Game Boy Color.
+- Processing mode (Green LED) for Game Boy Advance (16:9), and Game Boy Advance Video (16:9).
+- Retro mode (Blue LED) for Game Boy, Game Boy Color, Game Boy Advance (4:3), and Game Boy Advance Video (4:3).
 
 ## [Types of Speedrunning Fullscreen Files](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Video_scaling)
 
